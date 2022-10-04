@@ -1,0 +1,21 @@
+"region";"subregion";"key";"value"
+"GSI";"Southern Asia";"Afghanistan";25500100
+"GSI";"Northern Europe";"Åland Islands";28502
+"W/S";"Southern Europe";"Albania";2821977
+"GSI";"Northern Africa";"Algeria";37900000
+"GSI";"Polynesia";"American Samoa";55519
+"W/S";"Southern Europe";"Andorra";76246
+"W/S";"Middle Africa";"Angola";20609294
+"W/S";"Caribbean";"Anguilla";13452
+"W/S";"Carribbean";"Antarctica";-1
+"GSI";"Caribbean";"Antigua and Barbuda";86295
+"GSI";"South America";"Argentina";40117096
+"GSI";"Western Asia";"Armenia";3024100
+"GSI";"Caribbean";"Aruba";101484
+"GSI";"Australia and New Zealand";"Australia";23254142
+"GSI";"Western Europe";"Austria";8501502
+"GSI";"Western Asia";"Azerbaijan";9235100
+"GSI";"Caribbean";"Bahamas";-1
+"W/S";"Western Asia";"Bahrain";1234571
+"W/S";"Southern Asia";"Bangladesh";152518015
+"W/S";"Caribbean";"Barbados";274200
