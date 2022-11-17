@@ -1,13 +1,12 @@
 "region";"subregion";"key";"value"
 "GSI";"Water Foxes";"Julia Morris";25
 "GSI";"Water Foxes";"Brian Jacko";28
-"W/S";"Other";"Scott Krasner";28
 "GSI";"Manatees";"Jaime Gandara";37
 "W/S";"Other";"Megan DAlessandro";20
 "W/S";"Green Concepts";"Nic Pazlopez";9
 "GSI";"Manatees";"Mina Gerges";30
 "GSI";"Water Foxes";"Karly Soldner";10
-"GSI";"Flamingoes";"Michaella Becker";23
-"GSI";"Flamingoes";"George Snedden";7
+"GSI";"Eagles";"Michaella Becker";23
+"GSI";"Eagles";"George Snedden";7
 "W/S";"Green Concepts";"Katie Drake";12
 "W/S";"Green Concepts";"Craig Todd";15
