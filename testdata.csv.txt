@@ -3,19 +3,11 @@
 "GSI";"Water Foxes";"Brian Jacko";28
 "W/S";"Other";"Scott Krasner";28
 "GSI";"Manatees";"Jaime Gandara";37
-"GSI";"Water Foxes";"Julia Morris";5
-"W/S";"Other";"Scott Krasner";7
 "W/S";"Other";"Megan DAlessandro";20
-"W/S";"Other";"Megan DAlessandro";13
 "W/S";"Green Concepts";"Nic Pazlopez";9
-"GSI";"Water Foxes";"Brian Jacko";8
-"GSI";"Manatees";"Jaime Gandara";4
 "GSI";"Manatees";"Mina Gerges";30
 "GSI";"Water Foxes";"Karly Soldner";10
 "GSI";"Flamingoes";"Michaella Becker";23
-"GSI";"Flamingoes";"Michaella Becker";8
-"GSI";"Water Foxes";"Brian Jacko";9
 "GSI";"Flamingoes";"George Snedden";7
 "W/S";"Green Concepts";"Katie Drake";12
 "W/S";"Green Concepts";"Craig Todd";15
-"W/S";"Green Concepts";"Craig Todd";24
